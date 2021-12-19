@@ -1,4 +1,4 @@
-## Hey :wave:, I'm The Last Hope Modifications! [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/UVPub48xYh) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](http://thelasthope.net/)
+## Hey :wave:, I'm The Last Hope Modifications! :)
 
 <p align="center">
 <a href="https://github.com/The-Last-Hope-Modifications">
